@@ -1,0 +1,63 @@
+.fleft {float:left}
+.fright {float:right}
+.fclear {clear:both}
+.inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+body {margin:0;padding:0;background:#E5E5E5;font-family:Georgia, "Times New Roman", Times, serif;font-size:13px;color:#666}
+#main {width:976px;margin:0 auto}
+blockquote {font-style:italic}
+a {color:#135293}
+a:hover {text-decoration:none}
+.title1 {margin:0;paddin-top:20px;font-weight:normal;font-size:16px;color:#fff}
+.title2 {margin:0;padding:0 0;background:url(images/img09.gif) repeat-x left bottom;font-size:227%;font-weight:normal;color:#135293}
+.title3 {margin:0;padding:10px 0;background:url(images/img11.gif) repeat-x left bottom;font-size:129%;font-weight:normal;color:#fff}
+.boxed {padding:5px 30px 20px 30px}
+.boxed p, .boxed ul, .boxed ol {line-height:180%}
+.blue {margin:20px 30px;background:#6fa9c7 url(images/img10.gif) repeat-x;color:#fff}
+.blue a {color:#fff}
+.col-one {float:left;width:300px}
+.col-two {float:right;width:300px}
+/* Page */
+#page {width:976px;margin:5px auto;background-color:#FFF}
+/* Sidebar */
+#sidebar {float:left;width:202px}
+/* Logo */
+#logo {height:213px;background:#fff url(images/tg_carrusel_cabecera_pequena.jpg) no-repeat center center}
+#logo a {color:#9C9C9C;text-decoration:none}
+/* Menu */
+img {border:0}
+.flt {float:left}
+.menubg {clear:left;background-color:#6FA9C7;width:202px}
+.menu {float:left;clear:left;font:bold 11px Helvetica, Arial, sans-serif}
+.menu li {margin:0;list-style:none}
+.menu a, .menu a:visited {width:186px;height:22px;margin:0 0 2px -32px;position:relative;display:block;color:#cbe7f5;text-decoration:none;background:url(images/menubg2.jpg) no-repeat;padding:4px 0 0 8px}
+*html .menu a, .menu a:visited {width:186px;height:22px;margin:0 0 2px -32px;position:relative;display:block;color:#cbe7f5;text-decoration:none;background:url(images/menubg2.jpg) no-repeat;padding:4px 0 0 8px}
+.menu a:hover, .menu a:active,
+.menu li.current_page_item a, .menu li.current_page_item a:visited {background:url(images/menubg1.jpg) no-repeat}
+/* Login */
+#login {padding:20px;background-color:#6FA9C7}
+#login form {margin:0;padding:20px 0 0 0}
+#login fieldset {margin:0;padding:0;border:none}
+#login label {color:#fff}
+#contact {padding:20px;background-color:#6FA9C7}
+#contact label {color:#fff}
+#inputtext1, #inputtext2 {width:194px;margin-bottom:.5em;font:bold 100% Georgia, "Times New Roman", Times, serif;color:#666}
+#inputsubmit1 {margin-bottom:.5em;font:bold 100% Georgia, "Times New Roman", Times, serif;color:#666}
+#login a {color:#fff}
+/* Content */
+#content {float:right;width:765px}
+/* Footer */
+#footer {width:976px;height:56px;padding:0;margin:0 auto;background:url(images/img12.gif) repeat-x}
+#footer * {padding:11px}
+#footer p {margin:0;font-size:85%}
+
+/* BANDERA */
+#bandera{height:402px;background:#fff url(images/bandera.jpg) no-repeat center center}
+#bandera a{color:#9C9C9C;text-decoration:none}
+
+/* ESCUDO */
+#escudo{height:263px;background:#fff url(images/escudo.jpg) no-repeat center center}
+#escudo a{color:#9C9C9C;text-decoration:none}
+
+.copy {float:left;width:720px;height:30px;font-size:15px !important;padding-top:20px;padding-right:0;padding-bottom:25px;padding-left:25px;color:#000 !important}
+
+
